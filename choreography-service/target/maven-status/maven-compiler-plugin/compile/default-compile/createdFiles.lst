@@ -1,0 +1,7 @@
+com\example\choreographyservice\config\RabbitMQBeansConfig.class
+com\example\choreographyservice\config\RabbitMQConfig.class
+com\example\choreographyservice\listener\OrderListener.class
+com\example\choreographyservice\controller\OrderController.class
+com\example\choreographyservice\model\Order.class
+com\example\choreographyservice\ChoreographyServiceApplication.class
+com\example\choreographyservice\publisher\OrderPublisher.class
